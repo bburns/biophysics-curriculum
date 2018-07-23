@@ -1,8 +1,9 @@
-* Physics curriculum
+* Biophysics curriculum
 
-Self-study physics curriculum
+Self-study biophysics curriculum
 
-Borrowing fom http://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/
+Borrowing fom http://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/ and other sources.
+
 
 ** Year One
 
