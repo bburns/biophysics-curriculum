@@ -2,6 +2,8 @@
 
 Self-study physics curriculum
 
+Borrowing fom http://catalog.utexas.edu/undergraduate/natural-sciences/degrees-and-programs/bs-physics/
+
 
 ** Year One
 
@@ -13,6 +15,95 @@ Self-study physics curriculum
 
 Study of general properties of waves; examples include sound, electromagnetic, and mechanical waves; special emphasis on light and optics.
 
+*** Classical Dynamics
 
+Elementary linear vector algebra, Newtonian mechanics, Lagrangian mechanics, central force motion, dynamics of rigid bodies, and theory of small oscillations.
+
+
+** Year Two
+
+*** Classical Electrodynamics I
+
+Electrostatic fields, magnetostatic fields, derivation of Green's theorems and functions and of Maxwell's equations.
+
+*** Modern Physics and Thermodynamics
+
+Photons (spectra, photoelectric effect, blackbody radiation, Compton effect), atoms (Rutherford, Bohr), matter waves (Planck, deBroglie, probability interpretation, Schroedinger), nuclei, particles, special relativity, the laws of thermodynamics, and statistical physics.
+
+*** Quantum Physics I: Foundations
+
+Postulates of quantum mechanics, the bound states of the finite square well, the harmonic oscillator, operator-eigenvalue formulism and selected examples, the hydrogen atom, angular momentum, rigid rotor, and spin. May include simple scattering theory. 
+
+*** Modern Physics Laboratory
+
+Laboratory experiments investigating the breakdown of classical physics for microscopic phenomena. Includes absorption and emission spectra, the photoelectric effect, blackbody radiation, the Compton effect, X-ray diffraction, and other experiments in modern physics. 
+
+
+** Year Three
+
+*** Quantum Physics II: Atoms and Molecules
+
+The two-electron atom; spin and statistics; coupling schemes for many-electron atoms; atoms and the radiation field; perturbation methods for decay and collisions; thermal, electrical, and magnetic properties of solids; and free-electron metal and band theory. May include subjects such as superconductivity, Josephson tunneling, and others. 
+
+*** Thermodynamics and Statistical Mechanics
+
+Basic concepts of thermal physics; entropy, enthalpy, free energy, phase transitions, equilibrium distribution functions, applications. 
+
+*** Advanced Laboratory I
+
+Modern experimental techniques, theory of error, and analysis of experiments; both modern and classical experiments in atomic and nuclear physics, electricity and magnetism, optics and heat.
+
+*** Quantum Physics III: Particles and Nuclei
+
+Nuclei and nucleons, their gross properties; the hadrons; symmetries and conservation laws; nuclear stability; electromagnetic, weak, and hadronic interactions; nuclear reactions at low, medium, and high energies; nucleon structure; tools of experimental nuclear physics; models of theoretical nuclear physics; nuclear technology.
+
+
+** Year Three
+
+*** Introduction to Computational Physics
+
+Computational methods for problem solving and research in physics; numerical analysis and computer simulation methods for physics applications using different types of computers. 
+
+*** Electronic Techniques
+
+Elementary circuit theory, amplifiers, feedback, pulse and digital techniques, signal processing, and microprocessors as applied to physics instrumentation.
+
+*** Honors Tutorial Course
+
+Research project, resulting in a thesis, for outstanding students electing to take the honors program in physics. Conference course. Prerequisite: A University grade point average of at least 3.00, a grade point average in physics of at least 3.50, twelve semester hours of upper-division coursework in physics, and consent of the student's research supervisor and the departmental honors adviser.
+
+
+** Year Four
+
+*** Cell Biology 
+
+Principles of eukaryotic cell structure and function; macromolecules, membranes, organelles, cytoskeleton, signaling, cell division, differentiation, motility, and experimental methodologies. 
+
+*** General Microbiology 
+
+Overview of the major areas of microbiological study, including cell structure and function, genetics, host-microbe interactions, physiology, ecology, diversity, and virology.
+
+*** Developmental Biology 
+
+Principles of animal development, with emphasis on developmental mechanisms. 
+
+*** Vertebrate Neurobiology 
+
+Introduction to the nervous system and other excitable tissues. Subjects may include membrane potentials, ion channels, synaptic transmission, learning and memory, skeletal and cardiac muscle, and how systems of neurons lead to sensation and motor output. Human diseases are used to illustrate perturbation of normal function. 
+
+
+** Year Five
+
+*** Comparative Neuroscience 
+
+The nervous system, with emphasis on vertebrate neurobiology. 
+
+*** Molecular Biology of Animal Viruses 
+
+Mechanisms by which viruses replicate and kill or transform cells. 
+
+*** Computational Biology Laboratory 
+
+Overview of computational biology, with emphasis on nucleic acid sequence analysis and databases. Class projects and self-learning exercises. 
 
 
